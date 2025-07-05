@@ -1,0 +1,1 @@
+print('Sputnik is a snail!')
